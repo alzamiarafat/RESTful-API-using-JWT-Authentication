@@ -48,9 +48,11 @@
                                         {{ __('Remember Me') }}
                                     </label>
                                 </div>
-                            </div>
+                                <br>
+                                <div class="g-recaptcha" data-sitekey="6Lf3ZBEbAAAAAGm3yMJkmT3WMzYKAovVlFtSwDYz"></div>
+                            </div>  
                         </div>
-
+                        
                         <div class="form-group row mb-0">
                             <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
